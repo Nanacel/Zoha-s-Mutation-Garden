@@ -1,0 +1,1 @@
+//draw_text(mouse_x, mouse_y + 100, string(room));
