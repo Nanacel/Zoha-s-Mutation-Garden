@@ -1,0 +1,1 @@
+//draw_text(100, 100, " scroll:" + string(scroll) + " displayed:" + string(displayed))
